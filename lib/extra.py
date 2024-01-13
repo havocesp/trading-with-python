@@ -3,7 +3,6 @@ Created on Apr 28, 2013
 Copyright: Jev Kuznetsov
 License: BSD
 '''
-from __future__ import print_function
 import sys
 import urllib
 import os
