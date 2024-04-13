@@ -2,8 +2,6 @@
 """
 test file for mean calculation
 """
-
-from __future__ import division
 import numpy as np
 
 def mean(data):
